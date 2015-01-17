@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ziggeo.iml" filepath="$PROJECT_DIR$/.idea/ziggeo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/FriendlyFriendReminder.iml" filepath="$PROJECT_DIR$/FriendlyFriendReminder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> 52c9f33e728b2d9d274899c95ed0d4052265168a
     </modules>
   </component>
 </project>
